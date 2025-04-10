@@ -17,7 +17,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f"https://github.com/WCGKING/BrandrdXMusic"
+                        "𝐒𝐎𝐔𝐑𝐂𝐄", url=f"𝗕𝗞𝗖 𝗢𝗪𝗡𝗘𝗥 𝗦𝗘 𝗣𝗘𝗥𝗠𝗜𝗦𝗦𝗜𝗢𝗡 𝗟𝗘𝗞𝗘 𝗔𝗝𝗔"
                     )
                 ]
             ]
@@ -28,13 +28,13 @@ async def help(client: Client, message: Message):
 @app.on_message(filters.command("clone"))
 async def clones(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/1aac9a42f6f35138da34b.jpg",
+        photo=f"https://files.catbox.moe/zpq3y3.jpg",
         caption=f"""**🙂You Are Not Sudo User So You Are Not Allowed To Clone Me.**\n**😌Click Given Below Button And Host Manually Otherwise Contact Owner Or Sudo Users For Clone.**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "ƨσʋяcɛ", url=f"https://github.com/WCGKING/BrandrdXMusic"
+                        "𝐒𝐎𝐔𝐑𝐂𝐄", url=f"𝗕𝗞𝗖 𝗢𝗪𝗡𝗘𝗥 𝗦𝗘 𝗣𝗘𝗥𝗠𝗜𝗦𝗦𝗜𝗢𝗡 𝗟𝗘𝗞𝗘 𝗔𝗝𝗔"
                     )
                 ]
             ]
